@@ -7,6 +7,6 @@ public class PracticeProblemTest {
    @Test
    public void testQ3()
    {
-     
+     assertEquals(3, PracticeProblemQ3());
    }
 }
