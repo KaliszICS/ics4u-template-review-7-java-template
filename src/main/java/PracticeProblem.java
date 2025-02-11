@@ -17,10 +17,10 @@ public class PracticeProblem {
 		return 3;
 	}
 
-	public static int q4() {
-		//Write question 4 code here
+	// public static int q4() {
+	// 	//Write question 4 code here
 	
-	}
+	// }
 
 	public static void q5() {
 		//Write question 5 code here
