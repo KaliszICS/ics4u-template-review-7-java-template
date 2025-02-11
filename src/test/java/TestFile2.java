@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.io.*;
 
-public class PracticeProblemTest {
+public class TestFile2 {
 
    @Test
    public void testQ4()
