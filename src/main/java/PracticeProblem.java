@@ -4,26 +4,6 @@ public class PracticeProblem {
 
 	}
 
-	public static void q1() {
-		//Write question 1 code here
-	}
-
-	public static void q2() {
-		//Write question 2 code here
-	}
-
-	public static int q3() {
-		//Write question 3 code here
-		return 3;
-	}
-
-	// public static int q4() {
-	// 	//Write question 4 code here
-	
-	// }
-
-	public static void q5() {
-		//Write question 5 code here
-	}
+	//Write your functions here
 
 }
